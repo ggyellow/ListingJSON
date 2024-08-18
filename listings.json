@@ -1,5 +1,5 @@
 {
-  "lastUpdated": 1723944280,
+  "lastUpdated": 1723944986,
   "listings": [
     {
       "uri": "https://www.facebook.com/marketplace/item/2194732480902236",
@@ -194,6 +194,14 @@
       "source": "Facebook"
     },
     {
+      "uri": "https://mzadqatar.com/en//products/gxr-2008--92063874",
+      "title": "gxr 2008 ",
+      "mileage": "400000",
+      "price": "60000",
+      "photo": "https://api.mzadqatar.com/uploads/thumbnail/2024/08/11/92063874-d53955b3ff.jpg",
+      "source": "Mzad"
+    },
+    {
       "uri": "https://mzadqatar.com/en//products/kia-picanto-92035849",
       "title": "kia picanto",
       "mileage": "15000",
@@ -306,27 +314,27 @@
       "source": "Mzad"
     },
     {
+      "uri": "https://mzadqatar.com/en//products/glc-200-amg-2020-92048746",
+      "title": "GLC 200 AMG 2020",
+      "mileage": "74000",
+      "price": "162000",
+      "photo": "https://api.mzadqatar.com/uploads/thumbnail/2024/08/10/92048746-81999f7546.jpg",
+      "source": "Mzad"
+    },
+    {
+      "uri": "https://mzadqatar.com/en//products/c200-amg-2017-92079836",
+      "title": "C200 AMG 2017",
+      "mileage": "91000",
+      "price": "83000",
+      "photo": "https://api.mzadqatar.com/uploads/thumbnail/2024/08/15/92079836-3f45a410fe.jpg",
+      "source": "Mzad"
+    },
+    {
       "uri": "https://mzadqatar.com/en//products/e350-avant-garde--92004833",
       "title": "E350 avant-garde ",
       "mileage": "249000",
       "price": "22000",
       "photo": "https://api.mzadqatar.com/uploads/thumbnail/2024/07/25/92004833-c987fbb3ce.jpg",
-      "source": "Mzad"
-    },
-    {
-      "uri": "https://mzadqatar.com/en//products/vogue-supercharge-2015-92071563",
-      "title": "vogue supercharge 2015",
-      "mileage": "94000",
-      "price": "108000",
-      "photo": "https://api.mzadqatar.com/uploads/thumbnail/2024/08/15/92071563-5130fa6b1b.jpg",
-      "source": "Mzad"
-    },
-    {
-      "uri": "https://mzadqatar.com/en//products/tahoe-premier-2022-6.5--92087232",
-      "title": "Tahoe premier 2022 6.5 ",
-      "mileage": "59900",
-      "price": "205000",
-      "photo": "https://api.mzadqatar.com/uploads/thumbnail/2024/08/17/92087232-7bc960116a.jpg",
       "source": "Mzad"
     },
     {
@@ -362,11 +370,11 @@
       "source": "Mzad"
     },
     {
-      "uri": "https://mzadqatar.com/en//products/land-cruiser-gxr-2007-92088304",
-      "title": "Land Cruiser GXR 2007",
-      "mileage": "302000",
-      "price": "60000",
-      "photo": "https://api.mzadqatar.com/uploads/thumbnail/2024/08/18/92088304-8120294c71.png",
+      "uri": "https://mzadqatar.com/en//products/vogue-supercharge-2015-92071563",
+      "title": "vogue supercharge 2015",
+      "mileage": "94000",
+      "price": "108000",
+      "photo": "https://api.mzadqatar.com/uploads/thumbnail/2024/08/15/92071563-5130fa6b1b.jpg",
       "source": "Mzad"
     },
     {
@@ -378,11 +386,11 @@
       "source": "Mzad"
     },
     {
-      "uri": "https://mzadqatar.com/en//products/vogue-supercharge-2015-92088014",
-      "title": "vogue supercharge 2015",
-      "mileage": "106000",
-      "price": "108000",
-      "photo": "https://api.mzadqatar.com/uploads/thumbnail/2024/08/17/92088014-1dbee40c91.jpg",
+      "uri": "https://mzadqatar.com/en//products/gxr-2008--92063874",
+      "title": "gxr 2008 ",
+      "mileage": "400000",
+      "price": "60000",
+      "photo": "https://api.mzadqatar.com/uploads/thumbnail/2024/08/11/92063874-d53955b3ff.jpg",
       "source": "Mzad"
     },
     {
@@ -498,27 +506,27 @@
       "source": "Mzad"
     },
     {
-      "uri": "https://mzadqatar.com/en//products/e350-avant-garde--92004833",
-      "title": "E350 avant-garde ",
-      "mileage": "249000",
-      "price": "22000",
-      "photo": "https://api.mzadqatar.com/uploads/thumbnail/2024/07/25/92004833-c987fbb3ce.jpg",
-      "source": "Mzad"
-    },
-    {
-      "uri": "https://mzadqatar.com/en//products/جي-اكس-ار-6-سلندر-91970381",
-      "title": "جي اكس ار 6 سلندر",
-      "mileage": "255000",
-      "price": "89000",
-      "photo": "https://api.mzadqatar.com/uploads/thumbnail/2024/07/17/91970381-968d584b46.jpg",
-      "source": "Mzad"
-    },
-    {
       "uri": "https://mzadqatar.com/en//products/vogue-supercharge-2015-92088014",
       "title": "vogue supercharge 2015",
       "mileage": "106000",
       "price": "108000",
       "photo": "https://api.mzadqatar.com/uploads/thumbnail/2024/08/17/92088014-1dbee40c91.jpg",
+      "source": "Mzad"
+    },
+    {
+      "uri": "https://mzadqatar.com/en//products/vogue-supercharge-2015-92071563",
+      "title": "vogue supercharge 2015",
+      "mileage": "94000",
+      "price": "108000",
+      "photo": "https://api.mzadqatar.com/uploads/thumbnail/2024/08/15/92071563-5130fa6b1b.jpg",
+      "source": "Mzad"
+    },
+    {
+      "uri": "https://mzadqatar.com/en//products/e350-avant-garde--92004833",
+      "title": "E350 avant-garde ",
+      "mileage": "249000",
+      "price": "22000",
+      "photo": "https://api.mzadqatar.com/uploads/thumbnail/2024/07/25/92004833-c987fbb3ce.jpg",
       "source": "Mzad"
     },
     {
@@ -554,27 +562,27 @@
       "source": "Mzad"
     },
     {
-      "uri": "https://mzadqatar.com/en//products/land-cruiser-gxr-2007-92088304",
-      "title": "Land Cruiser GXR 2007",
-      "mileage": "302000",
+      "uri": "https://mzadqatar.com/en//products/جي-اكس-ار-6-سلندر-91970381",
+      "title": "جي اكس ار 6 سلندر",
+      "mileage": "255000",
+      "price": "89000",
+      "photo": "https://api.mzadqatar.com/uploads/thumbnail/2024/07/17/91970381-968d584b46.jpg",
+      "source": "Mzad"
+    },
+    {
+      "uri": "https://mzadqatar.com/en//products/bmw-530i-2018-92085623",
+      "title": "BMW 530i 2018",
+      "mileage": "130000",
+      "price": "35000",
+      "photo": "https://api.mzadqatar.com/uploads/thumbnail/2024/08/17/92085623-31a930a4db.jpg",
+      "source": "Mzad"
+    },
+    {
+      "uri": "https://mzadqatar.com/en//products/gxr-2008--92063874",
+      "title": "gxr 2008 ",
+      "mileage": "400000",
       "price": "60000",
-      "photo": "https://api.mzadqatar.com/uploads/thumbnail/2024/08/18/92088304-8120294c71.png",
-      "source": "Mzad"
-    },
-    {
-      "uri": "https://mzadqatar.com/en//products/big-van-diesel--92082237",
-      "title": "Big van diesel ",
-      "mileage": "77000",
-      "price": "25000",
-      "photo": "https://api.mzadqatar.com/uploads/thumbnail/2024/08/16/92082237-a91932d295.jpg",
-      "source": "Mzad"
-    },
-    {
-      "uri": "https://mzadqatar.com/en//products/vogue-supercharge-2015-92071563",
-      "title": "vogue supercharge 2015",
-      "mileage": "94000",
-      "price": "108000",
-      "photo": "https://api.mzadqatar.com/uploads/thumbnail/2024/08/15/92071563-5130fa6b1b.jpg",
+      "photo": "https://api.mzadqatar.com/uploads/thumbnail/2024/08/11/92063874-d53955b3ff.jpg",
       "source": "Mzad"
     },
     {
@@ -586,12 +594,12 @@
       "source": "Mzad"
     },
     {
-      "uri": "https://mzadqatar.com/en//products/land-cruiser-2015-92088477",
-      "title": "Land Cruiser 2015",
-      "mileage": "320000",
-      "price": "69900",
-      "photo": "https://api.mzadqatar.com/uploads/thumbnail/2024/08/18/92088477-01f735e384.jpg",
-      "source": "Mzad"
+      "uri": "https://qlv.qatarliving.com/en/vehicles/cars/49706_mitsubishi_asx_full_option",
+      "title": "Mitsubishi ASX 2021",
+      "mileage": "64000",
+      "price": "48000",
+      "photo": "https://qlv-media-prod.qatarliving.com/ad-images-output/prod/mitsubishi-asx-full-option-1723356331881/thumbnail/1723356331881-Messenger_creation_893573ce-289c-44cd-bda0-934190c3bb41_432x300.webp",
+      "source": "QatarLiving"
     },
     {
       "uri": "https://qlv.qatarliving.com/en/vehicles/cars/49340_mazda_cx5_2014",
@@ -615,14 +623,6 @@
       "mileage": "179000",
       "price": "39000",
       "photo": "https://qlv-media-prod.qatarliving.com/ad-images-output/prod/15407/thumbnail/image00019_432x300.webp",
-      "source": "QatarLiving"
-    },
-    {
-      "uri": "https://qlv.qatarliving.com/en/vehicles/cars/44070_geely_azkarra",
-      "title": "Geely Azkarra 2022",
-      "mileage": "125000",
-      "price": "50000",
-      "photo": "https://qlv-media-prod.qatarliving.com/ad-images-output/prod/geely-azkarra-1721402498991/thumbnail/1721402498991-faa27d14-5997-4583-9c74-bdd92d126ba2_432x300.webp",
       "source": "QatarLiving"
     },
     {
