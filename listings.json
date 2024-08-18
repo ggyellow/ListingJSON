@@ -1,5 +1,5 @@
 {
-  "lastUpdated": 1723945346,
+  "lastUpdated": 1723945534,
   "listings": [
     {
       "uri": "https://www.facebook.com/marketplace/item/2194732480902236",
@@ -102,7 +102,7 @@
       "title": "2009 BMW 2009 X3",
       "mileage": null,
       "price": "QAR15,000",
-      "photo": "https://scontent.fdoh4-2.fna.fbcdn.net/v/t45.5328-4/455857754_1159839511755475_7462728102773720876_n.jpg?stp=c0.43.261.261a_dst-jpg_p261x260&_nc_cat=108&ccb=1-7&_nc_sid=247b10&_nc_ohc=3SkxFohNeLMQ7kNvgFQORS0&_nc_ht=scontent.fdoh4-2.fna&oh=00_AYAxMRqZoq5BlaJfFg3LR4r3_CmDi5Qil4LpuI79BUhoHw&oe=66C70822",
+      "photo": "https://scontent.fdoh4-2.fna.fbcdn.net/v/t45.5328-4/455857754_1159839511755475_7462728102773720876_n.jpg?stp=c0.43.261.261a_dst-jpg_p261x260&_nc_cat=108&ccb=1-7&_nc_sid=247b10&_nc_ohc=3SkxFohNeLMQ7kNvgFQORS0&_nc_ht=scontent.fdoh4-2.fna&oh=00_AYAq8cpbMxD0levqiNWsqy0VoDQxl1D28OLOMzSJ-WffjA&oe=66C74062",
       "source": "Facebook"
     },
     {
@@ -202,6 +202,14 @@
       "source": "Mzad"
     },
     {
+      "uri": "https://mzadqatar.com/en//products/duster-2015-92040038",
+      "title": "Duster 2015",
+      "mileage": "230000",
+      "price": "10500",
+      "photo": "https://api.mzadqatar.com/uploads/thumbnail/2024/08/18/92040038-f4033ceb6c.png",
+      "source": "Mzad"
+    },
+    {
       "uri": "https://mzadqatar.com/en//products/gxr-2008--92063874",
       "title": "gxr 2008 ",
       "mileage": "400000",
@@ -303,14 +311,6 @@
       "mileage": "350000",
       "price": "6500",
       "photo": "https://api.mzadqatar.com/uploads/thumbnail/2024/08/18/92088371-40dd13b62f.jpg",
-      "source": "Mzad"
-    },
-    {
-      "uri": "https://mzadqatar.com/en//products/najim-92088351",
-      "title": "najim",
-      "mileage": "160000",
-      "price": "5300",
-      "photo": "https://api.mzadqatar.com/uploads/thumbnail/2024/08/18/92088351-fa7b261fd1.png",
       "source": "Mzad"
     },
     {
@@ -322,11 +322,19 @@
       "source": "Mzad"
     },
     {
-      "uri": "https://mzadqatar.com/en//products/vogue-supercharge-2015-92071563",
-      "title": "vogue supercharge 2015",
-      "mileage": "94000",
-      "price": "108000",
-      "photo": "https://api.mzadqatar.com/uploads/thumbnail/2024/08/15/92071563-5130fa6b1b.jpg",
+      "uri": "https://mzadqatar.com/en//products/c200-amg-2017-92079836",
+      "title": "C200 AMG 2017",
+      "mileage": "91000",
+      "price": "83000",
+      "photo": "https://api.mzadqatar.com/uploads/thumbnail/2024/08/15/92079836-3f45a410fe.jpg",
+      "source": "Mzad"
+    },
+    {
+      "uri": "https://mzadqatar.com/en//products/najim-92088351",
+      "title": "najim",
+      "mileage": "160000",
+      "price": "5300",
+      "photo": "https://api.mzadqatar.com/uploads/thumbnail/2024/08/18/92088351-fa7b261fd1.png",
       "source": "Mzad"
     },
     {
@@ -362,27 +370,19 @@
       "source": "Mzad"
     },
     {
-      "uri": "https://mzadqatar.com/en//products/ford-raptor--91894853",
-      "title": "Ford Raptor ",
-      "mileage": "196000",
-      "price": "52000",
-      "photo": "https://api.mzadqatar.com/uploads/thumbnail/2024/07/03/91894853-4f3bd8aa43.jpg",
+      "uri": "https://mzadqatar.com/en//products/vogue-supercharge-2015-92088014",
+      "title": "vogue supercharge 2015",
+      "mileage": "106000",
+      "price": "108000",
+      "photo": "https://api.mzadqatar.com/uploads/thumbnail/2024/08/17/92088014-1dbee40c91.jpg",
       "source": "Mzad"
     },
     {
-      "uri": "https://mzadqatar.com/en//products/tahoe-premier-2022-6.5--92087232",
-      "title": "Tahoe premier 2022 6.5 ",
-      "mileage": "59900",
-      "price": "205000",
-      "photo": "https://api.mzadqatar.com/uploads/thumbnail/2024/08/17/92087232-7bc960116a.jpg",
-      "source": "Mzad"
-    },
-    {
-      "uri": "https://mzadqatar.com/en//products/bmw-530i-2018-92085623",
-      "title": "BMW 530i 2018",
-      "mileage": "130000",
-      "price": "35000",
-      "photo": "https://api.mzadqatar.com/uploads/thumbnail/2024/08/17/92085623-31a930a4db.jpg",
+      "uri": "https://mzadqatar.com/en//products/we-buy-all-kinds-of-cars-19315875",
+      "title": "we buy all kinds of cars",
+      "mileage": "1",
+      "price": "1000000000",
+      "photo": "https://api.mzadqatar.com/uploads/thumbnail/2024/07/13/19315875-8bc824b986.jpg",
       "source": "Mzad"
     },
     {
@@ -391,6 +391,14 @@
       "mileage": "185000",
       "price": "7500",
       "photo": "https://api.mzadqatar.com/uploads/thumbnail/2024/08/17/90902838-923fc2cde2.png",
+      "source": "Mzad"
+    },
+    {
+      "uri": "https://mzadqatar.com/en//products/duster-2015-92040038",
+      "title": "Duster 2015",
+      "mileage": "230000",
+      "price": "10500",
+      "photo": "https://api.mzadqatar.com/uploads/thumbnail/2024/08/18/92040038-f4033ceb6c.png",
       "source": "Mzad"
     },
     {
@@ -498,11 +506,11 @@
       "source": "Mzad"
     },
     {
-      "uri": "https://mzadqatar.com/en//products/najim-92088351",
-      "title": "najim",
-      "mileage": "160000",
-      "price": "5300",
-      "photo": "https://api.mzadqatar.com/uploads/thumbnail/2024/08/18/92088351-fa7b261fd1.png",
+      "uri": "https://mzadqatar.com/en//products/we-buy-all-kinds-of-cars-19315875",
+      "title": "we buy all kinds of cars",
+      "mileage": "1",
+      "price": "1000000000",
+      "photo": "https://api.mzadqatar.com/uploads/thumbnail/2024/07/13/19315875-8bc824b986.jpg",
       "source": "Mzad"
     },
     {
@@ -514,11 +522,11 @@
       "source": "Mzad"
     },
     {
-      "uri": "https://mzadqatar.com/en//products/tahoe-premier-2022-6.5--92087232",
-      "title": "Tahoe premier 2022 6.5 ",
-      "mileage": "59900",
-      "price": "205000",
-      "photo": "https://api.mzadqatar.com/uploads/thumbnail/2024/08/17/92087232-7bc960116a.jpg",
+      "uri": "https://mzadqatar.com/en//products/najim-92088351",
+      "title": "najim",
+      "mileage": "160000",
+      "price": "5300",
+      "photo": "https://api.mzadqatar.com/uploads/thumbnail/2024/08/18/92088351-fa7b261fd1.png",
       "source": "Mzad"
     },
     {
@@ -554,27 +562,19 @@
       "source": "Mzad"
     },
     {
-      "uri": "https://mzadqatar.com/en//products/ford-raptor--91894853",
-      "title": "Ford Raptor ",
-      "mileage": "196000",
-      "price": "52000",
-      "photo": "https://api.mzadqatar.com/uploads/thumbnail/2024/07/03/91894853-4f3bd8aa43.jpg",
+      "uri": "https://mzadqatar.com/en//products/glc-200-amg-2020-92048746",
+      "title": "GLC 200 AMG 2020",
+      "mileage": "74000",
+      "price": "162000",
+      "photo": "https://api.mzadqatar.com/uploads/thumbnail/2024/08/10/92048746-81999f7546.jpg",
       "source": "Mzad"
     },
     {
-      "uri": "https://mzadqatar.com/en//products/vogue-autobiography--92074729",
-      "title": "vogue autobiography ",
-      "mileage": "122000",
-      "price": "85000",
-      "photo": "https://api.mzadqatar.com/uploads/thumbnail/2024/08/15/92074729-cf8741136d.jpg",
-      "source": "Mzad"
-    },
-    {
-      "uri": "https://mzadqatar.com/en//products/vogue-supercharge-2015-92088014",
-      "title": "vogue supercharge 2015",
-      "mileage": "106000",
-      "price": "108000",
-      "photo": "https://api.mzadqatar.com/uploads/thumbnail/2024/08/17/92088014-1dbee40c91.jpg",
+      "uri": "https://mzadqatar.com/en//products/c200-amg-2017-92079836",
+      "title": "C200 AMG 2017",
+      "mileage": "91000",
+      "price": "83000",
+      "photo": "https://api.mzadqatar.com/uploads/thumbnail/2024/08/15/92079836-3f45a410fe.jpg",
       "source": "Mzad"
     },
     {
@@ -586,11 +586,11 @@
       "source": "Mzad"
     },
     {
-      "uri": "https://mzadqatar.com/en//products/gxr-2008--92063874",
-      "title": "gxr 2008 ",
-      "mileage": "400000",
-      "price": "60000",
-      "photo": "https://api.mzadqatar.com/uploads/thumbnail/2024/08/11/92063874-d53955b3ff.jpg",
+      "uri": "https://mzadqatar.com/en//products/duster-2015-92040038",
+      "title": "Duster 2015",
+      "mileage": "230000",
+      "price": "10500",
+      "photo": "https://api.mzadqatar.com/uploads/thumbnail/2024/08/18/92040038-f4033ceb6c.png",
       "source": "Mzad"
     },
     {
